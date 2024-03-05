@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Faster.ConfigurazioneFaster>
+  <nomeApplicazione>Faster</nomeApplicazione>
+  <righeTabella>10</righeTabella>
+  <nomeDefaultGrafico>NickName</nomeDefaultGrafico>
+  <valoreColonneGrafico>0</valoreColonneGrafico>
+  <tipoFont>sans-serif</tipoFont>
+  <grandezzaFont>18</grandezzaFont>
+  <coloreDefaultBackground>#FFFFFF</coloreDefaultBackground>
+  <indirizzoIPClient versione="IPV4">localhost</indirizzoIPClient>
+  <indirizzoIPServerLog versione="IPV4">localhost</indirizzoIPServerLog>
+  <portaServerLog>9697</portaServerLog>
+  <nomeDB>db</nomeDB>
+  <pswDB></pswDB>
+</Faster.ConfigurazioneFaster>
